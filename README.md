@@ -1,4 +1,4 @@
-# Geoserver Primer
+# Your first Geoserver project
 
 ## Introduction
 
