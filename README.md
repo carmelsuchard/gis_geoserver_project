@@ -1,3 +1,5 @@
+(Not sure  if this should be in the readme for the Github Pages? Should it be in a different page?) 
+
 # Your first Geoserver project
 
 ## Introduction
