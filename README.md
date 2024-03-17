@@ -1,2 +1,9 @@
-# gis_geoserver_project
-Files for the geoserver Legacy Project for Women in Geospatial Mentorship group 44
+# Geoserver Primer
+
+## Introduction
+
+## Section 1: Getting set up
+
+## Section 2: Hosting geoserver
+
+## Section 3: Mapping
